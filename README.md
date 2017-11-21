@@ -15,7 +15,7 @@
 - [Daring Fireball (Markdown & more...)](https://daringfireball.net/projects/)  
 - [R Markdown (from R Studio)](http://rmarkdown.rstudio.com/)  
 - [flexdashboard for R](http://rmarkdown.rstudio.com/flexdashboard/)  
-- []()  
+- [Some potentially useful symbols here](https://www.webpagefx.com/tools/emoji-cheat-sheet/)  
 - []()  
 - []()  
  - - -
