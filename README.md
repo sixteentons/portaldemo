@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/sixteentons/portaldemo/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-###Static Website/Markdown Resources:  
+### Some Helpful Resources:  
  - - -
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)  
 - [Cheap or Free Static Website Hosting](http://alignedleft.com/resources/cheap-web-hosting)  
@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Example: Setting up a Static Website Using a Custom Domain](http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html) 
 - [Daring Fireball (Markdown & more...)](https://daringfireball.net/projects/)  
 - [R Markdown (from R Studio)](http://rmarkdown.rstudio.com/)  
-- []()  
+- [flexdashboard for R](http://rmarkdown.rstudio.com/flexdashboard/)  
 - []()  
 - []()  
 - []()  
