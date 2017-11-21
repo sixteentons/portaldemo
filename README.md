@@ -4,7 +4,7 @@ This README functions as site index for now.
 
 Use the [editor on GitHub](https://github.com/sixteentons/portaldemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild site pages from the content in your Markdown files.
+Whenever you make a new commit, [Jekyll](https://jekyllrb.com/) rebuilds the site pages from the content in your Markdown files.
 
 ### Some Helpful Resources:  
  - - -
