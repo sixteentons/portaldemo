@@ -17,7 +17,7 @@
 - [flexdashboard for R](http://rmarkdown.rstudio.com/flexdashboard/)  
 - [Some potentially useful symbols here](https://www.webpagefx.com/tools/emoji-cheat-sheet/)  
 - []()  
-- []()  
+- [GO TO PAGE 2](https://github.com/sixteentons/portaldemo/blob/master/page2.md)  
  - - -
 ### Markdown, briefly:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
