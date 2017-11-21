@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/sixteentons/portaldemo/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Do yourself a favor, and read this first:
-http://jmcglone.com/guides/github-pages/
+Do yourself a favor, read these first:
+[J. McGlone's GitHub Pages tutorial](http://jmcglone.com/guides/github-pages/)
 
 ### Markdown
 
