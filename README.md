@@ -5,6 +5,7 @@
 - Use the [editor on GitHub](https://github.com/sixteentons/portaldemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 - Whenever you make a new commit, [Jekyll](https://jekyllrb.com/) rebuilds the site pages from the content in your Markdown files.
+
  - - -
 ### Some Helpful Resources:  
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)  
@@ -18,9 +19,9 @@
 - [Some potentially useful symbols here](https://www.webpagefx.com/tools/emoji-cheat-sheet/)  
 - []()  
 - []()  
- - - -
-### Markdown, briefly:
 
+- - -
+### Markdown, briefly:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
