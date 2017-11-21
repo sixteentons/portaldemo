@@ -1,13 +1,12 @@
 ## 16-T Static Site (Updated: 11-21-2017)
 
-This README functions as site index for now.
+- This README functions as site index for now.
 
-Use the [editor on GitHub](https://github.com/sixteentons/portaldemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Use the [editor on GitHub](https://github.com/sixteentons/portaldemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you make a new commit, [Jekyll](https://jekyllrb.com/) rebuilds the site pages from the content in your Markdown files.
-
-### Some Helpful Resources:  
+- Whenever you make a new commit, [Jekyll](https://jekyllrb.com/) rebuilds the site pages from the content in your Markdown files.
  - - -
+### Some Helpful Resources:  
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)  
 - [Cheap or Free Static Website Hosting](http://alignedleft.com/resources/cheap-web-hosting)  
 - [How anyone in the world can create cheap static sites.](http://katsenblog.com/post/85144002449/how-anyone-in-the-world-can-create-cheap-static)  
@@ -19,7 +18,7 @@ Whenever you make a new commit, [Jekyll](https://jekyllrb.com/) rebuilds the sit
 - []()  
 - []()  
 - []()  
-
+ - - -
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
