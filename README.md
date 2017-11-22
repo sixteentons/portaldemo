@@ -9,7 +9,7 @@
  - - -
 ### Some Helpful Resources:  
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/) 
-- [Jekyll Site Examples]{https://github.com/jekyll/jekyll/wiki/Sites)
+- [Jekyll Site Examples](https://github.com/jekyll/jekyll/wiki/Sites)
 - [Cheap or Free Static Website Hosting](http://alignedleft.com/resources/cheap-web-hosting)  
 - [How anyone in the world can create cheap static sites.](http://katsenblog.com/post/85144002449/how-anyone-in-the-world-can-create-cheap-static)  
 - [Hosting a Static Website on Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)  
