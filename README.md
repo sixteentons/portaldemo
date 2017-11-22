@@ -4,7 +4,7 @@
 
 - Use the [editor on GitHub](https://github.com/sixteentons/portaldemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-- Whenever you make a new commit, [Jekyll](https://jekyllrb.com/) rebuilds the site pages from the content in your Markdown files.
+- Whenever you make a new commit, [Jekyll](https://jekyllrb.com/) rebuilds the site pages from the content in your Markdown files.  
  - - -
 ### Some Helpful Resources:  
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)  
@@ -40,11 +40,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).  
  - - -
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sixteentons/portaldemo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sixteentons/portaldemo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.  
  - - -
 ### Support or Contact
 
