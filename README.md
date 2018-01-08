@@ -1,4 +1,4 @@
-## 16-T Static Site (Updated: 11-21-2017)
+## 16T Static Site (Updated: 01-08-2018)
 
 - This README functions as site index for now.
 
