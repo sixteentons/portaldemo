@@ -1,4 +1,4 @@
-## 16T Static Site (Updated: 01-08-2018, 08-23-2019)
+## GHP Static Site (c010818/u0902219)
 
 - This README functions as site index for now.
 
@@ -16,8 +16,8 @@
 - [Example: Setting up a Static Website Using a Custom Domain](http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html) 
 - [Daring Fireball (Markdown & more...)](https://daringfireball.net/projects/)  
 - [R Markdown (from R Studio)](http://rmarkdown.rstudio.com/)  
-- [flexdashboard for R](http://rmarkdown.rstudio.com/flexdashboard/)  
-- [Some potentially useful symbols here](https://www.webpagefx.com/tools/emoji-cheat-sheet/)  
+- [flexdashboard for R](http://rmarkdown.rstudio.com/flexdashboard/) 
+- [pretty blonde lady](https://jonpublicdocs.s3-us-west-2.amazonaws.com/dasWreck1.png)
   
  - - -
 ### Markdown, briefly:
