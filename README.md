@@ -1,4 +1,5 @@
-## GHP Static Site (c010818/u0902219)
+## GHP Static Site 
+### (c010818; u090219)
 
 - This README functions as site index for now.
 
@@ -18,10 +19,12 @@
 - [R Markdown (from R Studio)](http://rmarkdown.rstudio.com/)  
 - [flexdashboard for R](http://rmarkdown.rstudio.com/flexdashboard/) 
 - [pretty blonde lady](https://jonpublicdocs.s3-us-west-2.amazonaws.com/dasWreck1.png)
+- [Using S3 for photo hosting](https://blog.codinghorror.com/using-amazon-s3-as-an-image-hosting-service/)
   
  - - -
 ### Markdown, briefly:
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. 
+It includes conventions for:
 
 ```markdown
 Syntax highlighted code block
